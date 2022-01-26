@@ -1,5 +1,5 @@
 
-# Install atom IDE
+# Install Atom IDE
 https://atom.io/
 
 # Install Plugins
