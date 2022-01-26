@@ -66,28 +66,7 @@
      Price: '6 lakh'
      ```
      
- ## Employee Sample
-    
-    ```
-     employee:
-         name: john
-         gender: male
-         age: 24
-         address:
-            city: edison
-            state: 'new jersey'
-            country: 'united states'
-         payslips:
-            -
-               month: june
-               amount: 1400
-            - 
-               month: july
-               amount: 2400
-            - 
-               month: august
-               amount: 3400
-    ```
+ 
  ## Employee Sample
     ```
     employee:
