@@ -6,7 +6,7 @@ https://atom.io/
 
 ## package1
   1. install package -> atom linter-js-yaml
-  2. npm install linter-js-yaml
+  2. `npm install linter-js-yaml`
   
 ## package2 
   1. install package -> atom remote-sync
