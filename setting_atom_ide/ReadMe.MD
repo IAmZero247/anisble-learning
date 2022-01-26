@@ -25,4 +25,6 @@ https://atom.io/
        7. uploadOnSave -> enabled
           userAtomicWrites -> disabled
           delete local files/folder upon remote delete -> delete
+ 
+ 4. Right Click ->Remote Sync ->Upload Folder      
        
