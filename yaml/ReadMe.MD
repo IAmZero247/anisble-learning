@@ -66,6 +66,9 @@
      Price: '6 lakh'
      ```
      
+ ## Employee Sample
+    
+    ```
      employee:
          name: john
          gender: male
@@ -84,7 +87,7 @@
             - 
                month: august
                amount: 3400
-
+    ```
  ## Employee Sample
     ```
     employee:
