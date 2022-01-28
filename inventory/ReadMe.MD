@@ -48,7 +48,7 @@
    ```
    
     web anisble_host=server1.company.com  anisble_connection=ssh ansible_user=root ansible_ssh_pass=P@SSwORD
-     db anisble_host=server2.company.com  anisble_connection=ssh ansible_user=root ansible_ssh_pass=P@SSwORD
+    db  anisble_host=server2.company.com  anisble_connection=ssh ansible_user=root ansible_ssh_pass=P@SSwORD
     
     
    ```
