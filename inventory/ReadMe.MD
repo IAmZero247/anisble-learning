@@ -36,3 +36,20 @@
      ansible -i host --list-hosts 
      ```
 
+### Inventory Parameters
+1. Alias
+2. Ansible Host
+3. Ansible Connection ->ssh/winrm/localhost
+4. Ansible Port -> 22/5986
+5. Ansible user -> root/administrator
+6. Ansible SSH pass
+
+
+   ```
+   
+    web anisble_host=server1.company.com  anisble_connection=ssh ansible_user=root ansible_ssh_pass=P@SSwORD
+     db anisble_host=server2.company.com  anisble_connection=ssh ansible_user=root ansible_ssh_pass=P@SSwORD
+    
+    
+   ```
+
