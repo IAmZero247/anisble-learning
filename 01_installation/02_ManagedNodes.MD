@@ -77,7 +77,7 @@
       now update for below:
       PasswordAuthentication yes
     
-      service sshd restart | reboot
+      service sshd restart | reload
    ```
  
  ### Install Ansible
